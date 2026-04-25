@@ -2,30 +2,34 @@
 
 ## Tools Used
 - Cursor IDE
-- Claude Code extension
+- Claude Code extension [AI coding assistant]
 - Codex extension
-- GitHub
+- GitHub [version control and hosting]
 
 ## Project Overview
-This is a personal portfolio project that showcases my work, skills, and experience using basic front-end technologies.
+This project is a personal portfolio website built using basic front-end technologies. It is intended to showcase my skills, projects, and experience in a simple and clear format.
 
 ## Steps Completed
-- Installed Cursor IDE
-- Installed Claude Code and Codex extensions
-- Created a GitHub repository
-- Uploaded project files
-- Set up project structure
+1. Installed Cursor IDE
+2. Installed and configured Claude Code and Codex extensions
+3. Created a public repository on GitHub
+4. Opened and managed the project inside Cursor
+5. Uploaded and organized project files
+6. Created and documented the project in this README file
 
 ## Issues Faced & Solutions
 
-### Issue 1: Uploaded ZIP instead of files
-Solution: Extracted files and uploaded them properly
+### Issue 1: Uploaded ZIP instead of project files
+**Solution:** Extracted the ZIP file locally and uploaded the actual files to GitHub for better structure and visibility.
 
-### Issue 2: Confusion with Cursor Extensions
-Solution: Learned how to access Extensions inside Cursor after opening a folder
+### Issue 2: Could not find Extensions in Cursor
+**Solution:** Learned that Extensions only appear after opening a folder/project in Cursor.
 
-### Issue 3: GitHub repo setup
-Solution: Created a new repository and connected it properly
+### Issue 3: Confusion between Cursor Marketplace and Extensions
+**Solution:** Identified that the Marketplace is different from the Extensions panel and used the correct one.
+
+### Issue 4: Connecting project to GitHub
+**Solution:** Used Git commands and GitHub repository link to properly manage and upload the project.
 
 ## Result
-A working portfolio project hosted on GitHub and ready to share with a team.
+Successfully set up a working development environment using Cursor IDE and AI tools, and created a portfolio project hosted on GitHub, ready to be shared and further developed.
