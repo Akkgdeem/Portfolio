@@ -1,0 +1,36 @@
+└── portfolio.html
+    │
+    ├── <!-- META & TITLE -->
+    ├── <!-- GOOGLE FONTS -->
+    ├── <!-- CSS STYLES -->
+    │   ├── RESET & VARIABLES
+    │   ├── NAVIGATION
+    │   ├── HERO SECTION
+    │   ├── GENERAL SECTIONS
+    │   ├── CONSULTING SECTION
+    │   ├── SKILLS GRID
+    │   ├── EXPERIENCE TIMELINE
+    │   ├── ACHIEVEMENTS
+    │   ├── VBA CODE SECTION
+    │   ├── DASHBOARD SECTION
+    │   ├── CERTIFICATIONS
+    │   ├── EDUCATION
+    │   ├── CONTACT
+    │   ├── FOOTER
+    │   └── RESPONSIVE
+    │
+    ├── <!-- HTML: BODY CONTENT -->
+    │   ├── NAVIGATION
+    │   ├── HERO SECTION
+    │   ├── CONSULTING SERVICES
+    │   ├── SKILLS SECTION
+    │   ├── EXPERIENCE SECTION
+    │   ├── ACHIEVEMENTS
+    │   ├── VBA CODE SHOWCASE
+    │   ├── FTAC DASHBOARD
+    │   ├── EDUCATION & CERTS
+    │   ├── CONTACT SECTION
+    │   └── FOOTER
+    │
+    └── <!-- JAVASCRIPT -->
+        └── downloadVBA() function
