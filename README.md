@@ -2,14 +2,14 @@
 
 ## Tools Used
 - Cursor IDE
-- Claude Code extension [AI coding assistant]
+- Claude Code extension [AI coding]
 - Codex extension
-- GitHub [version control and hosting]
+- GitHub
 
 ## Project Overview
 This project is a personal portfolio website built using basic front-end technologies. It is intended to showcase my skills, projects, and experience in a simple and clear format.
 
-## Steps Completed
+## Steps Done
 1. Installed Cursor IDE
 2. Installed and configured Claude Code and Codex extensions
 3. Created a public repository on GitHub
