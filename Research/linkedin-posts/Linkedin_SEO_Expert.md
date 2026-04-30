@@ -47,8 +47,6 @@ Profile:https://www.linkedin.com/in/thinkingslow
 Role:Director of Content Marketing at Ahrefs
 Collected:April 2026
 
----
-
 Post 1 AI Overviews & Traffic Decline
 Topic:What to do when organic traffic drops due to AI
 
@@ -67,8 +65,6 @@ Action plan for traffic decline:
 5. Encourage personal brand activity within your team
 6. Track AI visibility by asking models what they know about your brand
 
----
-
 Post 2 Why AI Makes Commodity Content Worthless
 Topic:The only content that survives AI commoditization
 
@@ -78,8 +74,6 @@ Key points:
 - He calls this "thought leadership content" frameworks with real examples
 - He uses AI tools but refuses to let them replace developing a real POV
 - Invest in research, thought leadership, and trending topics these;formats outperform generic SEO blog posts in the AI era
-
----
 
 Why This Expert Matters
 Ryan Law runs content at one of the most data-rich SEO platforms
@@ -93,8 +87,6 @@ Profile:https://www.linkedin.com/in/schwartze/
 Role:Growth Advisor, Author of Product-Led SEO
 Collected:April 2026
 
----
-
 Post 1 AI Won't Kill SEO, But SEO Might Kill SEO
 Topic:The real threat to SEO is bad SEO, not AI
 
@@ -104,8 +96,6 @@ Key points:
 - Unique and engaging content tightly aligned to a company's core;offering was always non-negotiable AI just enforces it harder now
 - Technical SEO best practices have always aligned with improving;user experience that doesn't change with AI
 - Advice: stop chasing algorithm factors and start building;the best experience in your market
-
----
 
 Post 2 Use AI to Understand Users, Not Just Create Content
 Topic:The right way to use AI in SEO workflows
@@ -118,7 +108,6 @@ Key points:
 - Mid-funnel content is becoming more important as users seek;in-depth information before decisions
 - AI content alone won't cause penalties poor quality will
 
----
 
 Why This Expert Matters
 Eli has advised companies like SurveyMonkey, Coinbase, Tinder,
@@ -144,8 +133,6 @@ Key points:
 - Community content wins AI trusts authentic, conversational voices
 - Clarity beats jargon experts are often under-cited because they;write in ways that are hard for AI to extract and summarize
 
----
-
 Post 2 On-Page SEO Still Matters in the AI Era
 Topic:What on-page signals AI search systems actually use
 
@@ -156,7 +143,6 @@ Key points:
 - Brand consistency is everything mentions do not equal citations
 - Data-backed insight: AI surfaces sources that are clear,;consistently structured, and semantically tight
 
----
 
 Why This Expert Matters
 Cyrus is one of the few SEOs who publishes actual experiment results
@@ -168,7 +154,6 @@ Profile:https://www.linkedin.com/in/bernardhwang/
 Role:Co-founder of Clearscope
 Collected:April 2026
 
----
 
 Post 1 Content Briefs in the Age of AI
 Topic:How AI changes the content brief and optimization workflow
@@ -180,7 +165,6 @@ Key points:
 - The role of the content strategist shifts: less writing, more;architecture structuring topics so AI tools produce;coherent, rankable output
 - Content optimization is now about coverage and completeness,;not keyword density
 
----
 
 Post 2 AI Tools Don't Replace SEO Judgment
 Topic:Where human expertise still wins over AI automation
@@ -192,7 +176,6 @@ Key points:
 - Keyword research is increasingly about understanding entity;relationships, not just search volume
 - Clearscope data shows: content with high topic coverage and;clear structure consistently outperforms thin AI-generated content
 
----
 
 Why This Expert Matters
 Bernard builds tools used daily by content teams at major brands.
@@ -204,8 +187,6 @@ Profile:https://www.linkedin.com/in/kyleroof/
 Role:Founder of PageOptimizer Pro
 Collected:April 2026
 
----
-
 Post 1 Scientific SEO Testing in the AI Content Era
 Topic:Running controlled experiments on AI-generated content rankings
 
@@ -216,7 +197,6 @@ Key points:
 - On-page optimization signals remain strong ranking factors even;as AI search evolves
 - PageOptimizer Pro data shows that proper semantic structure;and keyword placement still drive measurable ranking improvements
 
----
 
 Post 2 On-Page Factors That Still Work in 2026
 Topic:What the data says about ranking factors in an AI-first search world
@@ -227,7 +207,6 @@ Key points:
 - Aim for ~320 character answers for featured snippet eligibility
 - Include facts and numbers, avoid opinion and fluff in direct answers
 - Semantic structure matters more than keyword density in 2026
---
 
 Why This Expert Matters
 Kyle's approach is practitioner-first and data-first. While most SEOs
@@ -239,7 +218,6 @@ Profile:https://www.linkedin.com/in/jaredbauman/
 Role:Co-founder of 201 Creative [SEO agency]
 Collected:April 2026
 
----
 
 Post 1 Our Agency's AI Content Production Workflow
 Topic:How a real SEO agency uses AI for content at scale
@@ -251,7 +229,6 @@ Key points:
 - Volume without quality filter has destroyed many niche sites in;2024-2025 Google updates the lesson is clear
 - Agency focus has shifted from "how much content" to "what content;actually serves the reader's full intent"
 
----
 
 Post 2 What the Google Updates Taught Us About AI Content
 Topic:Lessons from niche site performance post-HCU and Spam updates
@@ -263,7 +240,6 @@ Key points:
 - Recovery from a Google penalty for AI content abuse is extremely;slow prevention is the only real strategy
 - 2026 strategy: fewer topics, deeper coverage, stronger author signals
 
----
 
 Why This Expert Matters
 Jared runs a real agency with real clients and shares results
@@ -275,7 +251,6 @@ Profile:https://www.linkedin.com/in/gaelbreton/
 Role:Co-founder of Authority Hacker
 Collected:April 2026
 
----
 
 Post 1 Building AI Content Systems That Actually Scale
 Topic:How to build a repeatable AI content production system
@@ -287,7 +262,6 @@ Key points:
 - Documented real case studies of sites scaling to hundreds of;articles per month using AI with quality controls built in
 - Key metric to track: content coverage per topic cluster, not;just total article count
 
----
 
 Post 2 Niche SEO With AI in 2026
 Topic:What works for niche sites in the current AI search landscape
@@ -298,8 +272,6 @@ Key points:
 - The new playbook: narrow niche + deep coverage + real author;expertise + AI for speed, not substance
 - YouTube channel covers real workflow tutorials not just theory
 - Community and forum presence [Reddit, niche forums] now feeds;AI training data being active there builds brand authority;inside LLM answers
-
----
 
 Why This Expert Matters
 Gael has one of the most documented track records of building and
@@ -329,9 +301,7 @@ Profile: https://www.youtube.com/@KevinIndiigo
 Role: SEO Content Creator & Growth Advisor
 Collected: April 2026
 
----
-
-Post 1 — AI Search Is Replacing Ranked Results
+Post 1: AI Search Is Replacing Ranked Results
 Topic: How brands earn citations in AI-generated answers
 
 Key points:
@@ -345,7 +315,7 @@ Overviews make clicks obsolete — visibility matters more than clicks
 - Stop funding SEO for clicks — design budgets around brand
 authority in AI-first search
 
----
+----------------
 
 Post 2 — How to Reverse Engineer AI Citations
 Topic: Practical steps to get your brand cited in AI answers
@@ -362,8 +332,6 @@ represented across the web, knowledge panels, Wikipedia, and
 review sites
 - Publish content with first-hand experience — LLMs can generate
 generic content but cannot generate first-hand knowledge
-
----
 
 Why This Expert Matters
 Kevin Indiigo bridges technical SEO and AI content strategy in a
